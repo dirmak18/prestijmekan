@@ -1,0 +1,11 @@
+{
+  "name": "prestijmekan",
+  "version": "1.0.0",
+  "description": "Basit Node.js tabanli mekan tanitim sitesi",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "MIT"
+}

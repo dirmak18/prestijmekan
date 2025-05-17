@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f5f5f5;
+  color: #333;
+}
+header {
+  background: linear-gradient(135deg, #3f87a6, #ebf8e1);
+  padding: 1rem;
+  color: #fff;
+}
+header h1 {
+  margin: 0;
+}
+nav a {
+  color: #fff;
+  margin-right: 1rem;
+  text-decoration: none;
+}
+main {
+  padding: 1rem;
+}
+footer {
+  background: #333;
+  color: #eee;
+  text-align: center;
+  padding: 1rem;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+ul { list-style-type: none; padding: 0; }
+li { margin-bottom: 0.5rem; }
+form input, form textarea { width: 100%; margin-bottom: 0.5rem; }
